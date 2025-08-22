@@ -1,18 +1,21 @@
-Job Application Management System
+Job A**pplication Management System**
+
 📌 Overview
 
 The Job Application Management System is a web-based platform designed to connect job seekers with opportunities while simplifying the recruitment process for organizations.
 
-Job Seekers can explore available job postings and apply directly by uploading an application letter.
+**Job Seekers** can explore available job postings and apply directly by uploading an application letter.
 
-Panelists are able to view applications, review applicant details, and download application letters for further evaluation.
+**Panelists** are able to view applications, review applicant details, and download application letters for further evaluation.
 
-Admin manages users, job postings, applications, and system settings.
+**Admin** manages users, job postings, applications, and system settings.
 
 This system provides a structured workflow that makes recruitment transparent and efficient.
 
-🚀 Features
-👤 Job Seeker
+🚀 **Features**
+
+
+👤 **Job Seeker**
 
 View available job postings
 
@@ -21,7 +24,7 @@ Apply for a job by submitting an application letter
 Track submitted applications
 
 
-🎓 Panelist
+🎓 **Panelist**
 
 View all applications submitted by candidates
 
@@ -30,7 +33,7 @@ Download application letters for review
 Shortlist or evaluate applicants
 
 
-🛠️ Admin
+🛠️ **Admin**
 
 Manage users (job seekers, panelists)
 
@@ -41,7 +44,7 @@ Monitor applications and system activities
 Assign roles and permissions
 
 
-🗂️ System Modules
+🗂️ **System Modules**
 
 User Management (Admin, Panelist, Job Seeker)
 
@@ -52,7 +55,7 @@ Application Management (Submit, View, Download letters)
 Role-Based Access Control (Secure access for different users)
 
 
-🛑 Benefits
+🛑 **Benefits**
 
 Streamlined job application process
 
@@ -63,7 +66,8 @@ Easy access to application letters
 Role-based security and data protection
 
 
-⚙️ Tech Stack (example)
+
+⚙️ **Tech Stack** 
 
 Backend: Laravel 
 
@@ -74,7 +78,7 @@ Database: MariaDB / MySQL
 Authentication: Role-based authentication
 
 
-📸 Screenshots 
+📸 **Screenshots** 
 
 Login Page
 
@@ -86,7 +90,7 @@ Application Submission
 
 Application Review & Download
 
-📖 Installation
+📖 **Installation**
 # clone the repo
 git clone https://github.com/salehemussa/jobportal.git
 
