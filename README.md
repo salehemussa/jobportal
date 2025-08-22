@@ -91,23 +91,24 @@ Application Submission
 Application Review & Download
 
 📖 **Installation**
-clone the repo
-git clone https://github.com/salehemussa/jobportal.git
 
-navigate to project folder
-cd jobportal
+**clone the repo** git clone https://github.com/salehemussa/jobportal.git
 
-install dependencies (example for Laravel)
+**navigate to project folder** cd jobportal
+
+
+**install dependencies** 
+
 composer install
+
 npm install
-cp .env.example .env
 
-run migrations
-php artisan migrate
 
-start the development server
-php artisan serve
+**run migrations** php artisan migrate
 
-🤝 Contribution
+**start the development server** php artisan serve
+
+
+🤝 **Contribution**
 
 Contributions are welcome! Fork the repository and submit a pull request.
