@@ -1,6 +1,6 @@
-Job A**pplication Management System**
+# Job Application Management System
 
-📌 Overview
+📌 **Overview**
 
 The Job Application Management System is a web-based platform designed to connect job seekers with opportunities while simplifying the recruitment process for organizations.
 
@@ -91,21 +91,21 @@ Application Submission
 Application Review & Download
 
 📖 **Installation**
-# clone the repo
+clone the repo
 git clone https://github.com/salehemussa/jobportal.git
 
-# navigate to project folder
+navigate to project folder
 cd jobportal
 
-# install dependencies (example for Laravel)
+install dependencies (example for Laravel)
 composer install
 npm install
 cp .env.example .env
 
-# run migrations
+run migrations
 php artisan migrate
 
-# start the development server
+start the development server
 php artisan serve
 
 🤝 Contribution
